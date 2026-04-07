@@ -1,7 +1,12 @@
 aid: msc-industrial-direct
-url: https://raw.githubusercontent.com/api-evangelist/msc-industrial-direct/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/msc-industrial-direct/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.msc-industrial-direct.com
+description: >-
+  MSC Industrial Direct is one of the largest industrial product distributors in North
+  America, providing metalworking, maintenance, repair, and operations products and
+  services to manufacturers.
