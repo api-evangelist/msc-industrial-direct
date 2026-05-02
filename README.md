@@ -1,11 +1,37 @@
-# MSC Industrial Direct
+# MSC Industrial Direct (msc-industrial-direct)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for MSC Industrial Direct.
+MSC Industrial Direct is one of the largest industrial product distributors in North America, providing metalworking, maintenance, repair, and operations products and services to manufacturers.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/msc-industrial-direct/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
+
+## Tags
+
+- Distribution, Industrial, Maintenance, Manufacturing, Metalworking, MRO, Procurement
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented yet. Check back for updates.
 
-## Properties
+## Common Properties
 
-- [Website](https://www.msc-industrial-direct.com)
+- [Website](https://www.mscdirect.com)
+- [Contact](https://www.mscdirect.com/customerservice/contactus)
+- [Terms of Service](https://www.mscdirect.com/info/termsofuse)
+- [Privacy Policy](https://www.mscdirect.com/info/privacypolicy)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
