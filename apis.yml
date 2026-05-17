@@ -27,9 +27,9 @@ common:
     url: https://www.mscdirect.com
   - type: Contact
     url: https://www.mscdirect.com/customerservice/contactus
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.mscdirect.com/info/termsofuse
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.mscdirect.com/info/privacypolicy
 maintainers:
   - FN: Kin Lane
