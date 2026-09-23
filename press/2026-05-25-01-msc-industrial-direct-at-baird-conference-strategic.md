@@ -1,7 +1,9 @@
 ---
 title: 'MSC Industrial Direct at Baird Conference: Strategic ...'
 url: https://www.investing.com/news/transcripts/msc-industrial-direct-at-baird-conference-strategic-growth-and-ai-focus-93CH-4349484
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MSC Industrial Direct" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: MSC Industrial Supply Co. to Webcast Review of Fiscal 2026 ...
 url: https://www.thepublicopinion.com/press-release/story/40988/msc-industrial-supply-co-to-webcast-review-of-fiscal-2026-second-quarter-results/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MSC Industrial Direct" press release artificial intelligence'
 position: 4
 source: serpapi-google
